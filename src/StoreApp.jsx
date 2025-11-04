@@ -1,0 +1,1 @@
+// Full StoreApp component generated in ChatGPT canvas
